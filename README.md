@@ -13,3 +13,8 @@ Implemented OSPF routing in a multi-router network using Cisco Packet Tracer. Co
 ## CLI
 
 ![CLI](images/CLI.png)
+
+## Demo Video
+Click below to watch the demonstration:
+
+https://github.com/shubham-55035/Implementation-of-OSPF-Routing-with-DR-BDR-Election-and-Network-Security/tree/de334398758c73f33641ce5a8981b66eb77066f5/video
